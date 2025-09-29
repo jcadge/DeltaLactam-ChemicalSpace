@@ -4,7 +4,7 @@
 
 Scripts for the generation and analysis of the chemical space for the manuscript entitled: _"Scalable Photocatalytic Annulation of Primary Amines to δ Lactams: Access to Privileged (Spiro)Piperidine Space"_
 
-Descriptors and chemcial space data can be found in the `./data` directory.
+Descriptors and chemcial space data can be found in the `data.zip` file.
 
 ## Description of Jupyter notebooks:
 - **generate-fingerprints.ipynb**: Generation of Morgan fingerprints using RDKit.
